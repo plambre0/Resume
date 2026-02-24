@@ -12,6 +12,10 @@ DePaul University, B.S. Mathematics and Computer Science, Minor in Data Science,
 
 *Selected Coursework:* Probability and Statistics (I, III), Time Series Analysis and Forecasting, Stochastic Processes, Optimization Theory, Advanced Data Analysis, Biostatistics, Machine Learning, Database Systems
 
+**Professional Memberships**
+
+Professional Memberships
+
 **Experience**
 
 *Bioinformatics Researcher, DePaul Applied and Computational Bioinformatics Lab*
