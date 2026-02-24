@@ -46,4 +46,4 @@ February 2026
 
 *Languages:* R, SAS, SQL, MATLAB, Python, Scala, Java, C++
 
-*Tools:* Apache Spark, Jupyter Notebook, Git, UNIX, Excel, PowerPoint, Word
+*Tools:* Apache Spark, Jupyter Notebook, Git, UNIX, Excel, PowerPoint, Word, PLINK, BLAST, MendelianRandomization
