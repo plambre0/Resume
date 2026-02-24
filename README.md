@@ -14,7 +14,7 @@ DePaul University, B.S. Mathematics and Computer Science, Minor in Data Science,
 
 **Professional Memberships**
 
-Professional Memberships
+Statisticians Without Borders
 
 **Experience**
 
