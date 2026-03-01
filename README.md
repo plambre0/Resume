@@ -85,7 +85,3 @@ Reanalyzed the Dickson et al. PBC cohort using competing risks methods to accoun
 Forecasting Leqembi Adoption (2025) \[R\]
 
 Forecasted US utilization of Leqembi through end of the decade considering Medicare coverage expansion. Incorporated eligibility prevalence, amyloid plaque presence, and reimbursement assumptions to project adoption curves through bass diffusion models and potential budget impact. Conducted sensitivity analyses to evaluate how policy changes may affect projected utilization.
-
-Forecasted US utilization of Leqembi through end of the decade considering Medicare coverage expansion. Incorporated eligibility prevalence, amyloid plaque presence, and reimbursement assumptions to project adoption curves through bass diffusion models and potential budget impact. Conducted sensitivity analyses to evaluate how policy changes may affect projected utilization.
-
-*Tools:* Apache Spark, Jupyter Notebook, Git, UNIX, Excel, PowerPoint, Word, PLINK, BLAST, MendelianRandomization
