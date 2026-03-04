@@ -16,14 +16,6 @@ Certifications: NIH Principles of Clinical Pharmacology (In Progress), NIH Intro
 
 **Experience**
 
-*Participant, DePaul DemonHacks Hackathon*
-
-March 2026
-
-·        Developed app for real-time identification of potholes using computer vision through convolution neural networks.
-
-·        Practiced iterative modular software development using Git, Turborepo, Docker, Node.js, and Python.
-
 *Undergraduate Bioinformatics Researcher, DePaul Applied and Computational Bioinformatics Lab*
 
 January 2025 – Present
@@ -53,6 +45,14 @@ March 2025 – October 2025
 ·        Performed meta-analysis and stochastic simulation to synthesize literature-derived parameter estimates for risk modeling.
 
 ·        Delivered technical reports and presentations under strict research timelines.
+
+*Participant, DePaul DemonHacks Hackathon*
+
+March 2026
+
+·        Developed app for real-time identification of potholes using computer vision through convolution neural networks.
+
+·        Practiced iterative modular software development in a team environment using Git, Turborepo, Docker, Node.js, and Python.
 
 *Volunteer, Midwest Books to Prisoners*
 
