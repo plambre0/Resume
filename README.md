@@ -6,6 +6,8 @@
 
 DePaul University, B.S. Mathematics and Computer Science, Minor in Data Science, 2022 – Expected June 2026
 
+Combined M.S. in Applied Statistics Program
+
 *Awards:* Presidential Scholarship, Dean’s List, Merkes Family Scholarship
 
 *Extracurriculars:* ASA-STATCOM, Computer Science Society, Math Club, Students Against Incarceration
