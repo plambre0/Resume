@@ -1,12 +1,12 @@
 **Paolo Lambre**
 
-773-580-7767 | paololambre0@gmail.com | [github.com/plambre0](https://github.com/plambre0) | [linkedin.com/in/plambre](http://www.linkedin.com/in/plambre)
+773-580-7767 | [paololambre0@gmail.com](mailto:paololambre0@gmail.com) | [github.com/plambre0](https://github.com/plambre0) | [linkedin.com/in/plambre](http://www.linkedin.com/in/plambre)
 
 **Education**
 
 DePaul University, B.S. Mathematics and Computer Science, Minor in Data Science, 2022 – Expected June 2026
 
-Combined M.S. in Applied Statistics Program
+Combined M.S. in Applied Statistics Program (In Progress)
 
 *Awards:* Presidential Scholarship, Dean’s List, Merkes Family Scholarship
 
@@ -14,7 +14,7 @@ Combined M.S. in Applied Statistics Program
 
 *Selected Coursework:* Probability and Statistics (I, III), Advanced Statistical Computing, Time Series Analysis and Forecasting, Stochastic Processes, Optimization Theory, Advanced Data Analysis, Biostatistics, Machine Learning, Database Systems
 
-Certifications: NIH Principles of Clinical Pharmacology (In Progress), NIH Introduction to the Principles and Practice of Clinical Research (In Progress)
+Certifications: NIH Principles of Clinical Pharmacology, NIH Introduction to the Principles and Practice of Clinical Research
 
 **Experience**
 
@@ -22,63 +22,53 @@ Certifications: NIH Principles of Clinical Pharmacology (In Progress), NIH Intro
 
 January 2025 – Present
 
-·        Conducted literature review to design statistical workflows for single-cell spatial transcriptomics analysis.
-
-·        Investigated spatial relationships between gene expression and neuroanatomical structure in the brainstem using imaging analysis and spatial statistics.
-
-·        Developed scalable Python and R pipelines using Git to streamline gene expression and imaging analysis.
-
-·        Applied PCA, multidimensional scaling, t-SNE, and UMAP for high-dimensional data exploration and visualization.
-
-·        Identified region-specific gene expression patterns using point pattern analysis, cluster detection, and spatially varying gene identification methods.
-
-·        Co-authored paper accepted to ICBCB 2026; presented findings at university research symposium.
+* Developed statistical workflows for single‑cell spatial transcriptomics by synthesizing methods from recent literature and evaluating model performance across tissues.  
+* Identified region‑specific gene expression patterns using imaging analysis, point‑pattern statistics, cluster detection, and spatially varying gene identification algorithms.  
+* Built scalable R and Python pipelines to streamline preprocessing, spatial QC, feature extraction, and downstream modeling.  
+* Conducted exploratory and multivariate analyses (PCA, MDS, t‑SNE, UMAP) to characterize spatial heterogeneity and cell‑type structure.  
+* Co‑authored a paper accepted to ICBCB 2026 and presented findings at the university research symposium.
 
 *Intern Statistical Epidemiology Researcher, Khomtchouk Lab, Indiana University Luddy School of Informatics*
 
 March 2025 – October 2025
 
-·        Designed and analyzed epidemiologic studies involving high-dimensional and incomplete survey, genomic, and longitudinal data.
-
-·        Implemented multiple imputation and pattern-mixture models to address missing data under high uncertainty.
-
-·        Estimated causal effects of risk factors on disease progression using DAG-based modeling, structural equation models, and Bayesian inference.
-
-·        Performed meta-analysis and stochastic simulation to synthesize literature-derived parameter estimates for risk modeling.
-
-·        Delivered technical reports and presentations under strict research timelines.
+* Designed and analyzed epidemiologic studies using high‑dimensional survey, genomic, and longitudinal datasets.  
+* Addressed missingness and uncertainty using multiple imputation and pattern‑mixture models to improve robustness of effect estimates.  
+* Estimated causal effects of risk factors on disease progression using DAG‑informed adjustment, structural equation modeling, and Bayesian inference.  
+* Performed meta‑analysis and stochastic simulation to synthesize literature‑derived parameters for risk modeling and sensitivity analyses.  
+* Delivered technical reports and presentations under tight research timelines for interdisciplinary collaborators.
 
 *Participant, DePaul DemonHacks Hackathon*
 
-March 2026
+February 2026
 
-·        Developed app for real-time identification of potholes using computer vision through convolution neural networks.
-
-·        Practiced iterative modular software development in a team environment using Git, Turborepo, Docker, Node.js, and Python.
+* Developed app for real-time identification of potholes using computer vision through convolution neural networks.  
+* Practiced iterative modular software development in a team environment using Git, Turborepo, Docker, Node.js, and Python.
 
 *Volunteer, Midwest Books to Prisoners*
 
 February 2026
 
-·        Read requests for books and made personalized selections based on preferences and availability.
-
-·        Filled forms, packaged, and shipped books according to guidelines.
-
-**Professional Memberships**
-
-Statisticians Without Borders
+* Read requests for books and made personalized selections based on preferences and availability.  
+* Filled forms, packaged, and shipped books according to guidelines.
 
 **Skills**
 
 *Languages:* R, SAS, SQL, MATLAB, Python, Scala, Java, C++
 
-*Tools:* Apache Spark, Jupyter Notebook, Git, UNIX, Excel, PowerPoint, Word
+Statistics: Bayesian Inference, Causal Modeling, GLM, Spatial Statistics, Meta-analysis, MICE
+
+*Tools:* Apache Spark, Jupyter Notebook, Git, UNIX, Word, Excel, PowerPoint, LaTeX
+
+**Professional Memberships**
+
+Statisticians Without Borders
 
 **Projects**
 
 Estimating Causal Effects of Lead Exposure on Kidney Related Death (2025-Present) \[R\]
 
-Conducted a causal mediation analysis using the 2005–2006 NHANES linked to 2025 mortality outcomes to evaluate whether kidney dysfunction (measured through eGFR) mediates a relationship between blood lead levels and future mortality. Implemented survey-weighted interventional mediation analysis with multiple imputations for non-MCAR missing data. Estimated total, direct, and indirect effects using doubly robust estimation while adjusting for confounders specified through a DAG.
+Conducted a causal mediation analysis using the 2005–2006 NHANES linked to 2025 mortality outcomes to evaluate whether kidney dysfunction (measured through eGFR) mediates a relationship between blood lead levels and future mortality. Implemented survey-weighted interventional mediation analysis with multiple imputations for non-MCAR missing data. Estimated total, direct, and indirect effects using doubly robust estimation while adjusting for confounders specified through a DAG. 
 
 Negative Effects of Penicillamine in Cirrhosis Accounting for Competing Risks (2025-Present) \[R\]
 
